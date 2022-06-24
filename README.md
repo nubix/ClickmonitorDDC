@@ -4,3 +4,5 @@ The official website has disappeared from the public web and I'm unable to reach
 
 The archived version of the original website can be found here:
 https://web.archive.org/web/20201016064411/https://clickmonitorddc.bplaced.net/
+
+If anyone knows how to reach the developer of this tool or has the sourcecode please get in touch.
